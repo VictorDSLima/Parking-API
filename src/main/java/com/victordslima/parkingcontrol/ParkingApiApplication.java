@@ -1,4 +1,4 @@
-package com.victordslima;
+package com.victordslima.parkingcontrol;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
